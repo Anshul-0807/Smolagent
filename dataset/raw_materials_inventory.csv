@@ -1,0 +1,201 @@
+Material_ID,Material_Name,Supplier,Quantity_in_Stock,Unit_Cost_(USD),Last_Restock_Date
+MAT_001,Canvas,Supplier_J,42077,12.97,2023-04-13
+MAT_002,Foam,Supplier_I,10410,19.06,2024-10-05
+MAT_003,Thread,Supplier_A,23856,11.7,2024-09-11
+MAT_004,Insoles,Supplier_I,33770,49.96,2020-05-04
+MAT_005,Foam,Supplier_I,35009,13.88,2023-05-25
+MAT_006,Canvas,Supplier_C,30737,21.2,2019-09-13
+MAT_007,Rubber,Supplier_B,42589,22.49,2021-12-12
+MAT_008,Synthetic Fabric,Supplier_C,8256,8.29,2021-04-30
+MAT_009,Synthetic Fabric,Supplier_G,48703,8.4,2021-03-07
+MAT_010,Synthetic Fabric,Supplier_A,40339,12.51,2019-08-22
+MAT_011,Rubber,Supplier_G,27066,6.25,2019-05-23
+MAT_012,Synthetic Fabric,Supplier_E,44024,43.97,2020-03-30
+MAT_013,Buckles,Supplier_H,23231,4.95,2022-01-09
+MAT_014,Leather,Supplier_I,32759,47.34,2024-10-08
+MAT_015,Buckles,Supplier_J,11814,3.81,2019-01-13
+MAT_016,Buckles,Supplier_I,21318,31.19,2022-05-12
+MAT_017,Insoles,Supplier_A,22494,6.3,2019-08-22
+MAT_018,Canvas,Supplier_J,44162,20.53,2024-11-17
+MAT_019,Foam,Supplier_D,38918,30.79,2022-05-14
+MAT_020,Canvas,Supplier_A,36065,9.52,2022-11-09
+MAT_021,Insoles,Supplier_J,33711,8.45,2022-05-26
+MAT_022,Canvas,Supplier_E,39965,4.07,2021-09-05
+MAT_023,Buckles,Supplier_H,12784,13.8,2020-12-04
+MAT_024,Canvas,Supplier_G,25648,31.79,2020-12-17
+MAT_025,Synthetic Fabric,Supplier_E,12959,37.32,2020-07-30
+MAT_026,Synthetic Fabric,Supplier_B,8909,44.45,2020-10-01
+MAT_027,Foam,Supplier_D,6875,23.19,2020-08-21
+MAT_028,Thread,Supplier_A,17326,37.25,2023-10-29
+MAT_029,Thread,Supplier_D,36494,28.49,2019-05-10
+MAT_030,Rubber,Supplier_I,16028,14.07,2024-05-11
+MAT_031,Leather,Supplier_G,12786,45.79,2024-05-29
+MAT_032,Leather,Supplier_D,48308,46.26,2019-01-20
+MAT_033,Thread,Supplier_D,29702,14.4,2022-05-22
+MAT_034,Rubber,Supplier_C,39297,45.5,2022-06-17
+MAT_035,Synthetic Fabric,Supplier_H,25979,46.72,2021-08-15
+MAT_036,Rubber,Supplier_F,47925,18.45,2020-09-22
+MAT_037,Canvas,Supplier_F,36111,29.53,2019-11-20
+MAT_038,Synthetic Fabric,Supplier_J,6487,14.56,2024-01-17
+MAT_039,Rubber,Supplier_C,39259,9.25,2019-07-15
+MAT_040,Buckles,Supplier_A,27304,21.6,2020-12-15
+MAT_041,Foam,Supplier_F,40191,12.27,2021-10-19
+MAT_042,Canvas,Supplier_E,8687,36.84,2022-09-07
+MAT_043,Synthetic Fabric,Supplier_J,4169,17.22,2022-11-06
+MAT_044,Rubber,Supplier_A,26005,32.08,2022-06-25
+MAT_045,Thread,Supplier_E,2699,24.11,2020-03-21
+MAT_046,Insoles,Supplier_D,31338,19.25,2020-05-22
+MAT_047,Thread,Supplier_G,9731,43.04,2019-01-27
+MAT_048,Rubber,Supplier_D,7215,46.56,2020-01-22
+MAT_049,Synthetic Fabric,Supplier_G,33821,8.07,2022-08-09
+MAT_050,Synthetic Fabric,Supplier_G,13690,46.1,2020-05-26
+MAT_051,Leather,Supplier_C,26726,8.3,2022-11-14
+MAT_052,Leather,Supplier_D,7718,23.58,2021-08-17
+MAT_053,Synthetic Fabric,Supplier_I,25923,41.44,2023-05-15
+MAT_054,Thread,Supplier_F,7108,37.94,2022-07-10
+MAT_055,Synthetic Fabric,Supplier_J,30325,11.01,2022-10-25
+MAT_056,Synthetic Fabric,Supplier_C,17714,3.23,2024-04-02
+MAT_057,Thread,Supplier_E,47752,10.67,2020-11-10
+MAT_058,Leather,Supplier_B,29304,21.48,2023-12-31
+MAT_059,Canvas,Supplier_B,3300,25.81,2024-07-27
+MAT_060,Thread,Supplier_G,48543,10.86,2024-05-30
+MAT_061,Thread,Supplier_H,11345,41.12,2021-03-09
+MAT_062,Leather,Supplier_C,15416,20.41,2019-06-12
+MAT_063,Leather,Supplier_F,28024,34.03,2022-09-14
+MAT_064,Leather,Supplier_A,7863,10.07,2023-10-11
+MAT_065,Buckles,Supplier_D,18534,32.51,2019-04-17
+MAT_066,Synthetic Fabric,Supplier_I,26652,27.6,2024-04-21
+MAT_067,Insoles,Supplier_C,35610,31.62,2024-12-08
+MAT_068,Rubber,Supplier_A,19949,45.84,2024-09-26
+MAT_069,Leather,Supplier_B,33087,32.41,2024-12-07
+MAT_070,Rubber,Supplier_F,33190,35.29,2023-05-14
+MAT_071,Foam,Supplier_I,18365,48.64,2021-04-18
+MAT_072,Foam,Supplier_C,18351,5.37,2020-07-07
+MAT_073,Thread,Supplier_F,17458,3.93,2019-06-24
+MAT_074,Rubber,Supplier_I,27145,38.8,2019-04-26
+MAT_075,Synthetic Fabric,Supplier_B,32528,9.92,2022-12-25
+MAT_076,Thread,Supplier_C,20908,35.66,2020-08-05
+MAT_077,Foam,Supplier_G,13846,41.71,2024-01-11
+MAT_078,Foam,Supplier_E,31045,49.46,2022-09-04
+MAT_079,Rubber,Supplier_G,44270,47.11,2020-02-01
+MAT_080,Thread,Supplier_C,27008,23.24,2019-10-02
+MAT_081,Canvas,Supplier_C,45155,42.23,2023-02-06
+MAT_082,Thread,Supplier_C,6399,40.51,2021-07-25
+MAT_083,Synthetic Fabric,Supplier_G,1949,9.78,2021-04-02
+MAT_084,Synthetic Fabric,Supplier_H,2505,37.08,2024-06-18
+MAT_085,Thread,Supplier_D,6147,22.77,2022-01-29
+MAT_086,Leather,Supplier_G,13669,36.29,2021-01-06
+MAT_087,Foam,Supplier_A,30969,40.34,2024-01-25
+MAT_088,Thread,Supplier_H,45888,44.75,2019-06-29
+MAT_089,Leather,Supplier_I,21236,35.63,2022-11-14
+MAT_090,Synthetic Fabric,Supplier_F,39344,0.58,2024-08-03
+MAT_091,Foam,Supplier_I,25467,47.3,2021-03-27
+MAT_092,Synthetic Fabric,Supplier_A,14037,23.02,2021-06-30
+MAT_093,Synthetic Fabric,Supplier_F,8967,6.85,2023-03-21
+MAT_094,Synthetic Fabric,Supplier_E,31460,39.8,2022-06-03
+MAT_095,Insoles,Supplier_C,12413,33.02,2024-08-20
+MAT_096,Thread,Supplier_F,6500,44.43,2021-01-23
+MAT_097,Synthetic Fabric,Supplier_F,19430,19.07,2023-06-07
+MAT_098,Foam,Supplier_F,25394,9.49,2023-11-06
+MAT_099,Canvas,Supplier_D,31337,40.32,2020-03-10
+MAT_100,Synthetic Fabric,Supplier_G,13381,13.3,2023-09-30
+MAT_101,Foam,Supplier_A,17987,26.38,2022-05-01
+MAT_102,Thread,Supplier_F,14756,49.61,2024-10-19
+MAT_103,Leather,Supplier_A,5312,28.06,2023-10-07
+MAT_104,Leather,Supplier_I,17590,43.55,2024-06-12
+MAT_105,Synthetic Fabric,Supplier_F,28112,27.96,2019-06-20
+MAT_106,Leather,Supplier_H,31751,31.38,2023-07-15
+MAT_107,Leather,Supplier_H,28107,1.8,2020-03-16
+MAT_108,Synthetic Fabric,Supplier_F,28533,23.78,2022-11-02
+MAT_109,Thread,Supplier_F,44996,18.54,2020-01-05
+MAT_110,Synthetic Fabric,Supplier_G,42835,49.27,2021-07-14
+MAT_111,Synthetic Fabric,Supplier_I,19125,27.16,2023-03-27
+MAT_112,Canvas,Supplier_F,27471,9.57,2023-01-16
+MAT_113,Canvas,Supplier_A,31309,28.17,2019-12-15
+MAT_114,Foam,Supplier_B,30445,23.83,2023-03-26
+MAT_115,Foam,Supplier_C,35213,24.81,2023-04-16
+MAT_116,Thread,Supplier_D,41210,36.66,2023-02-10
+MAT_117,Thread,Supplier_I,16104,26.76,2024-03-13
+MAT_118,Thread,Supplier_F,22473,11.29,2021-11-27
+MAT_119,Canvas,Supplier_B,21544,16.6,2019-12-25
+MAT_120,Leather,Supplier_D,48970,39.34,2019-09-21
+MAT_121,Foam,Supplier_G,8363,36.67,2022-09-14
+MAT_122,Leather,Supplier_J,44442,41.17,2021-05-30
+MAT_123,Buckles,Supplier_E,8405,18.67,2023-05-01
+MAT_124,Thread,Supplier_A,3186,47.65,2019-08-07
+MAT_125,Rubber,Supplier_D,48601,33.84,2022-12-09
+MAT_126,Buckles,Supplier_G,42561,45.26,2020-11-22
+MAT_127,Leather,Supplier_D,41490,23.33,2023-10-31
+MAT_128,Insoles,Supplier_H,23185,9.64,2021-05-02
+MAT_129,Synthetic Fabric,Supplier_F,45317,37.81,2020-03-15
+MAT_130,Leather,Supplier_H,43693,14.9,2020-03-07
+MAT_131,Insoles,Supplier_A,5585,38.87,2019-03-07
+MAT_132,Thread,Supplier_F,9582,47.38,2020-08-12
+MAT_133,Buckles,Supplier_A,4628,7.83,2020-04-02
+MAT_134,Synthetic Fabric,Supplier_G,6675,39.23,2023-09-10
+MAT_135,Synthetic Fabric,Supplier_J,42680,30.04,2024-05-01
+MAT_136,Buckles,Supplier_F,42247,31.48,2022-06-29
+MAT_137,Buckles,Supplier_A,45918,49.83,2020-06-01
+MAT_138,Buckles,Supplier_E,25588,18.62,2020-07-13
+MAT_139,Leather,Supplier_F,45364,6.39,2021-12-05
+MAT_140,Buckles,Supplier_B,6423,22.41,2021-02-06
+MAT_141,Canvas,Supplier_C,24854,33.47,2022-05-01
+MAT_142,Rubber,Supplier_C,27509,39.58,2024-09-03
+MAT_143,Canvas,Supplier_E,3958,24.19,2021-08-11
+MAT_144,Rubber,Supplier_G,14011,36.9,2020-10-12
+MAT_145,Synthetic Fabric,Supplier_E,28539,13.05,2024-09-25
+MAT_146,Buckles,Supplier_H,40355,13.3,2019-12-21
+MAT_147,Foam,Supplier_E,11313,27.04,2024-12-20
+MAT_148,Foam,Supplier_I,17920,32.04,2023-10-13
+MAT_149,Foam,Supplier_J,46534,8.27,2023-10-23
+MAT_150,Leather,Supplier_B,44025,49.25,2022-04-23
+MAT_151,Canvas,Supplier_C,6384,34.11,2022-02-27
+MAT_152,Thread,Supplier_A,1662,9.25,2023-07-25
+MAT_153,Rubber,Supplier_B,36732,23.37,2020-05-21
+MAT_154,Synthetic Fabric,Supplier_J,24548,32.7,2021-03-01
+MAT_155,Buckles,Supplier_C,45971,44.8,2021-03-21
+MAT_156,Buckles,Supplier_H,10832,22.54,2021-10-08
+MAT_157,Insoles,Supplier_F,20723,12.96,2024-08-17
+MAT_158,Canvas,Supplier_E,10625,41.42,2022-06-16
+MAT_159,Buckles,Supplier_I,5573,49.49,2024-02-23
+MAT_160,Foam,Supplier_G,3846,5.44,2019-09-27
+MAT_161,Synthetic Fabric,Supplier_C,23903,31.33,2023-10-04
+MAT_162,Leather,Supplier_B,19844,16.58,2023-09-25
+MAT_163,Rubber,Supplier_G,48272,28.13,2024-08-26
+MAT_164,Insoles,Supplier_H,34239,31.04,2021-08-04
+MAT_165,Leather,Supplier_F,47072,48.47,2022-01-18
+MAT_166,Synthetic Fabric,Supplier_E,20295,43.53,2024-03-11
+MAT_167,Synthetic Fabric,Supplier_I,36935,14.26,2022-11-11
+MAT_168,Synthetic Fabric,Supplier_F,41291,12.58,2024-05-22
+MAT_169,Buckles,Supplier_B,9621,14.92,2024-07-16
+MAT_170,Leather,Supplier_E,1805,14.2,2023-09-10
+MAT_171,Thread,Supplier_E,15661,3.82,2022-02-19
+MAT_172,Canvas,Supplier_B,28637,12.85,2019-11-10
+MAT_173,Rubber,Supplier_G,34715,25.62,2023-03-11
+MAT_174,Foam,Supplier_H,25184,41.11,2024-07-01
+MAT_175,Buckles,Supplier_G,23220,12.88,2019-07-24
+MAT_176,Insoles,Supplier_D,5484,49.85,2024-10-31
+MAT_177,Insoles,Supplier_H,21741,7.27,2021-05-08
+MAT_178,Rubber,Supplier_H,15707,39.83,2021-08-30
+MAT_179,Thread,Supplier_D,34418,45.35,2022-04-09
+MAT_180,Synthetic Fabric,Supplier_J,8418,17.37,2024-10-28
+MAT_181,Foam,Supplier_G,41067,39.3,2019-03-31
+MAT_182,Insoles,Supplier_E,32004,27.24,2022-01-30
+MAT_183,Thread,Supplier_D,35746,14.05,2020-04-25
+MAT_184,Leather,Supplier_B,1604,34.91,2022-09-29
+MAT_185,Thread,Supplier_D,21993,33.07,2020-10-03
+MAT_186,Canvas,Supplier_I,25483,28.13,2021-03-26
+MAT_187,Synthetic Fabric,Supplier_E,20702,35.95,2020-01-29
+MAT_188,Insoles,Supplier_A,28926,5.92,2023-11-07
+MAT_189,Rubber,Supplier_J,5575,45.14,2023-01-10
+MAT_190,Canvas,Supplier_E,26059,3.21,2022-03-03
+MAT_191,Leather,Supplier_D,44646,1.76,2019-08-13
+MAT_192,Thread,Supplier_J,25692,40.29,2024-05-17
+MAT_193,Canvas,Supplier_G,5060,32.09,2024-08-03
+MAT_194,Rubber,Supplier_G,32080,38.07,2021-11-28
+MAT_195,Canvas,Supplier_I,46185,46.31,2019-11-25
+MAT_196,Foam,Supplier_H,13971,48.61,2022-06-28
+MAT_197,Buckles,Supplier_A,46177,11.04,2022-08-18
+MAT_198,Buckles,Supplier_H,2770,7.62,2023-08-19
+MAT_199,Buckles,Supplier_E,38913,45.41,2022-09-23
+MAT_200,Insoles,Supplier_D,18182,22.24,2021-04-30
